@@ -1,0 +1,3 @@
+[submodule "BackHITG"]
+	path = BackHITG
+	url = git@github.com:MathiasP39/BackHITG.git
