@@ -1,3 +1,6 @@
 [submodule "BackHITG"]
 	path = BackHITG
 	url = git@github.com:MathiasP39/BackHITG.git
+[submodule "FrontHITG"]
+	path = FrontHITG
+	url = git@github.com:MathiasP39/FrontHITG.git
